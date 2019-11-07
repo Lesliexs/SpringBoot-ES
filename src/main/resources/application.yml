@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch-hx
+      cluster-nodes: 10.1.163.64:9300
